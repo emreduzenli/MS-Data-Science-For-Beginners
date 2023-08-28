@@ -56,6 +56,15 @@ Kaggle is an excellent source of open datasets. Use the [dataset search tool](ht
 - Is the data quantitative or qualitative?
 - Is the data structured, unstructured, or semi-structured?
 
+1. [Global Youtube Statistics 2023](https://www.kaggle.com/datasets/nelgiriyewithana/global-youtube-statistics-2023)
+- Qualitative
+- Structured
+2. [Sega Games](https://www.kaggle.com/datasets/joebeachcapital/sega-games)
+- Qualitative
+- Structured
+3. [List of Artificial Objects on the moon](https://www.kaggle.com/datasets/rajkumarpandey02/list-of-artificial-objects-on-the-moon)
+- Qualitative
+- Structured
 ## [Post-Lecture Quiz](https://purple-hill-04aebfb03.1.azurestaticapps.net/quiz/5)
 
 
